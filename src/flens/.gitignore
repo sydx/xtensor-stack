@@ -1,0 +1,11 @@
+*.o
+*.a
+*.so
+*.out
+*.f
+.ccls
+.ccls-cache/*
+flens/examples/*
+!flens/examples/*.cc
+!flens/examples/*.doc
+!flens/examples/Makefile
