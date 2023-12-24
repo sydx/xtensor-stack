@@ -34,12 +34,12 @@ outputs:
   - name: xtensorstack
 
 about:
-  home: https://github.com/sydx/xtensorstack
-  license: private
+  home: https://github.com/sydx/xtensor-stack
+  license: custom
   summary: 'xtensorstack - a full stack for numerical analysis'
   description: |
     A full stack for numerical analysis on multidimensional arrays (vectors, matrices,
     and tensors).
-  dev_url: https://github.com/sydx/xtensorstack
-  doc_url: https://github.com/sydx/xtensorstack
-  doc_source_url: https://github.com/sydx/xtensorstack
+  dev_url: https://github.com/sydx/xtensor-stack
+  doc_url: https://github.com/sydx/xtensor-stack
+  doc_source_url: https://github.com/sydx/xtensor-stack
